@@ -1,0 +1,484 @@
+[
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bcrypt",
+        "description": "bcrypt",
+        "detail": "bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocket",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "AuthJWT",
+        "importPath": "fastapi_jwt_auth",
+        "description": "fastapi_jwt_auth",
+        "isExtraImport": true,
+        "detail": "fastapi_jwt_auth",
+        "documentation": {}
+    },
+    {
+        "label": "JWTDecodeError",
+        "importPath": "fastapi_jwt_auth.exceptions",
+        "description": "fastapi_jwt_auth.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi_jwt_auth.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "wealth.database.api",
+        "description": "wealth.database.api",
+        "isExtraImport": true,
+        "detail": "wealth.database.api",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "wealth.database.api",
+        "description": "wealth.database.api",
+        "isExtraImport": true,
+        "detail": "wealth.database.api",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "wealth.database.api",
+        "description": "wealth.database.api",
+        "isExtraImport": true,
+        "detail": "wealth.database.api",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "wealth.database.models",
+        "description": "wealth.database.models",
+        "isExtraImport": true,
+        "detail": "wealth.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "wealth.database.models",
+        "description": "wealth.database.models",
+        "isExtraImport": true,
+        "detail": "wealth.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "wealth.database.models",
+        "description": "wealth.database.models",
+        "isExtraImport": true,
+        "detail": "wealth.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "WealthItem",
+        "importPath": "wealth.database.models",
+        "description": "wealth.database.models",
+        "isExtraImport": true,
+        "detail": "wealth.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "root_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Environment",
+        "importPath": "wealth.parameters",
+        "description": "wealth.parameters",
+        "isExtraImport": true,
+        "detail": "wealth.parameters",
+        "documentation": {}
+    },
+    {
+        "label": "CustomJwt",
+        "importPath": "wealth.core.authentication.jwt",
+        "description": "wealth.core.authentication.jwt",
+        "isExtraImport": true,
+        "detail": "wealth.core.authentication.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "WealthJwt",
+        "importPath": "wealth.core.authentication",
+        "description": "wealth.core.authentication",
+        "isExtraImport": true,
+        "detail": "wealth.core.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "ABCMeta",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi.routing",
+        "description": "fastapi.routing",
+        "isExtraImport": true,
+        "detail": "fastapi.routing",
+        "documentation": {}
+    },
+    {
+        "label": "CustomJwt",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.jwt",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.jwt",
+        "peekOfCode": "class CustomJwt(AuthJWT):\n    async def get_jwt_user(self) -> User:\n        user_id = self.get_jwt_user()\n        user = None  # TODO Implement get user from database\n        if user is None:\n            raise JWTDecodeError(\n                status_code=401,\n                message=f\"User in header {self._header_name} is not a valid user\",\n            )\n        return user",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "LoginUser",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "peekOfCode": "class LoginUser(BaseModel):\n    email: str\n    password: str\nclass ViewUser(BaseModel):\n    email: str\n    first_name: str\n    last_name: str\nclass CreateUser(ViewUser):\n    password: str\n    password2: str",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "ViewUser",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "peekOfCode": "class ViewUser(BaseModel):\n    email: str\n    first_name: str\n    last_name: str\nclass CreateUser(ViewUser):\n    password: str\n    password2: str\n    async def async_validate(self):\n        errors: List[ValidationError] = []\n        try:",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUser",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "peekOfCode": "class CreateUser(ViewUser):\n    password: str\n    password2: str\n    async def async_validate(self):\n        errors: List[ValidationError] = []\n        try:\n            await self.validate_email(self.email)\n        except (ValueError, TypeError, AssertionError) as e:\n            errors.append(str(e))\n        if errors:",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUser",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "peekOfCode": "class UpdateUser(BaseModel):\n    first_name: str\n    last_name: str\nclass UpdatePassword(BaseModel):\n    password: str\n    password2: str\nclass Settings(BaseModel):\n    authjwt_secret_key: str = env.APP_SECRET",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "UpdatePassword",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "peekOfCode": "class UpdatePassword(BaseModel):\n    password: str\n    password2: str\nclass Settings(BaseModel):\n    authjwt_secret_key: str = env.APP_SECRET",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "peekOfCode": "class Settings(BaseModel):\n    authjwt_secret_key: str = env.APP_SECRET",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.models",
+        "documentation": {}
+    },
+    {
+        "label": "encode_password",
+        "kind": 2,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "peekOfCode": "def encode_password(password: str) -> bytes:\n    return bcrypt.hashpw(password.encode(), bcrypt.gensalt())\ndef check_password(input_password: str, db_password: bytes) -> bool:\n    return bcrypt.checkpw(input_password.encode(), db_password)\ndef validate_password(password: str):\n    return len(password) > 8",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "kind": 2,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "peekOfCode": "def check_password(input_password: str, db_password: bytes) -> bool:\n    return bcrypt.checkpw(input_password.encode(), db_password)\ndef validate_password(password: str):\n    return len(password) > 8",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "documentation": {}
+    },
+    {
+        "label": "validate_password",
+        "kind": 2,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "peekOfCode": "def validate_password(password: str):\n    return len(password) > 8",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.passwords",
+        "documentation": {}
+    },
+    {
+        "label": "get_config",
+        "kind": 2,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "peekOfCode": "def get_config():\n    return Settings()\n@router.post(\"/login\")\nasync def login(user: LoginUser, authorize: CustomJwt = Depends()):\n    await authorize.login_user(user)\n    # subject identifier for who this token is for example id or username from database\n    access_token = authorize.create_access_token(subject=user.email, fresh=True)\n    refresh_token = authorize.create_refresh_token(subject=user.email)\n    return {\"access_token\": access_token, \"refresh_token\": refresh_token}\n@router.post(\"/refresh\")",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "documentation": {}
+    },
+    {
+        "label": "refresh",
+        "kind": 2,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "peekOfCode": "def refresh(authorize: CustomJwt = Depends()):\n    \"\"\"\n    The jwt_refresh_token_required() function insures a valid refresh\n    token is present in the request before running any code below that function.\n    we can use the get_jwt_subject() function to get the subject of the refresh\n    token, and use the create_access_token() function again to make a new access token\n    \"\"\"\n    authorize.jwt_refresh_token_required()\n    current_user = authorize.get_jwt_subject()\n    new_access_token = authorize.create_access_token(subject=current_user)",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "peekOfCode": "def get_user(authorize: CustomJwt = Depends()):\n    authorize.jwt_required()\n    current_user = authorize.get_jwt_user()\n    return ViewUser.parse_obj(current_user)\n@router.post(\"/user\", response_model=ViewUser)\nasync def create_user(user: CreateUser, authorize: CustomJwt = Depends()):\n    await user.async_validate()\n    authorize.jwt_forbidden()\n    db_user = User.parse_obj(user.dict())\n    # TODO Create the user",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "description": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "peekOfCode": "router = APIRouter()\n@CustomJwt.load_config\ndef get_config():\n    return Settings()\n@router.post(\"/login\")\nasync def login(user: LoginUser, authorize: CustomJwt = Depends()):\n    await authorize.login_user(user)\n    # subject identifier for who this token is for example id or username from database\n    access_token = authorize.create_access_token(subject=user.email, fresh=True)\n    refresh_token = authorize.create_refresh_token(subject=user.email)",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.authentication.views",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "{{cookiecutter.app_name}}.wealth.core.views",
+        "description": "{{cookiecutter.app_name}}.wealth.core.views",
+        "peekOfCode": "router = APIRouter()",
+        "detail": "{{cookiecutter.app_name}}.wealth.core.views",
+        "documentation": {}
+    },
+    {
+        "label": "EnvironmentMeta",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.parameters.env",
+        "description": "{{cookiecutter.app_name}}.wealth.parameters.env",
+        "peekOfCode": "class EnvironmentMeta(ABCMeta):\n    def __new__(cls, name: str, bases: List[str], namespace: dict):\n        for key, value in namespace[\"__annotations__\"].items():\n            setattr(cls, key, environ.get(key, None))\n        return cls\nclass Environment(metaclass=EnvironmentMeta):\n    ENVIRONMENT: str\n    APP_SECRET: str",
+        "detail": "{{cookiecutter.app_name}}.wealth.parameters.env",
+        "documentation": {}
+    },
+    {
+        "label": "Environment",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.parameters.env",
+        "description": "{{cookiecutter.app_name}}.wealth.parameters.env",
+        "peekOfCode": "class Environment(metaclass=EnvironmentMeta):\n    ENVIRONMENT: str\n    APP_SECRET: str",
+        "detail": "{{cookiecutter.app_name}}.wealth.parameters.env",
+        "documentation": {}
+    },
+    {
+        "label": "Parameters",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.parameters.general",
+        "description": "{{cookiecutter.app_name}}.wealth.parameters.general",
+        "peekOfCode": "class Parameters:\n    MONGO_DATABASE_NAME = \"Wealth\"",
+        "detail": "{{cookiecutter.app_name}}.wealth.parameters.general",
+        "documentation": {}
+    },
+    {
+        "label": "StringedEnum",
+        "kind": 6,
+        "importPath": "{{cookiecutter.app_name}}.wealth.util.types",
+        "description": "{{cookiecutter.app_name}}.wealth.util.types",
+        "peekOfCode": "class StringedEnum(str, Enum):\n    pass",
+        "detail": "{{cookiecutter.app_name}}.wealth.util.types",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "{{cookiecutter.app_name}}.wealth.main",
+        "description": "{{cookiecutter.app_name}}.wealth.main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\norigins = [\n    \"http://localhost\",\n    \"http://localhost:3000\",\n    \"http://localhost:8100\",\n    \"http://127.0.0.1\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:8100\",\n]\napp = FastAPI()",
+        "detail": "{{cookiecutter.app_name}}.wealth.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "{{cookiecutter.app_name}}.wealth.main",
+        "description": "{{cookiecutter.app_name}}.wealth.main",
+        "peekOfCode": "origins = [\n    \"http://localhost\",\n    \"http://localhost:3000\",\n    \"http://localhost:8100\",\n    \"http://127.0.0.1\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:8100\",\n]\napp = FastAPI()\napp.include_router(router)",
+        "detail": "{{cookiecutter.app_name}}.wealth.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "{{cookiecutter.app_name}}.wealth.main",
+        "description": "{{cookiecutter.app_name}}.wealth.main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(router)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nif __name__ == \"__main__\":",
+        "detail": "{{cookiecutter.app_name}}.wealth.main",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "{{cookiecutter.app_name}}.wealth.routers",
+        "description": "{{cookiecutter.app_name}}.wealth.routers",
+        "peekOfCode": "router = APIRouter()\nrouter.include_router(authentication.router, prefix=\"/auth\", tags=[\"auth\"])\nrouter.include_router(core_views.router, tags=[\"core\"])",
+        "detail": "{{cookiecutter.app_name}}.wealth.routers",
+        "documentation": {}
+    }
+]

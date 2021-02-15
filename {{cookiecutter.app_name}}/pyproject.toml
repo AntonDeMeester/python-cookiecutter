@@ -1,0 +1,8 @@
+[tool.black]
+line-length=128
+
+[tool.isort]
+profile="black"
+src_paths=["{{cookiecutter.app_name}}", "tests"]
+multi_line_output=3
+line_length=128
