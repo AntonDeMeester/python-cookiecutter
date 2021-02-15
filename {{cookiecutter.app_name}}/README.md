@@ -1,6 +1,6 @@
 # Set up
 
-`pipenv install`
+`pipenv install` and `pre-commit install`
 
 # Run
 

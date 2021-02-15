@@ -12,6 +12,7 @@ isort = "*"
 pytest-cov = "*"
 bpython = "*"
 radon = "*"
+pre-commit = "*"
 
 [packages]
 fastapi = "*"

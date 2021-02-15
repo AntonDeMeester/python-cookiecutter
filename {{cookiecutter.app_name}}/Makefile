@@ -36,13 +36,7 @@ clean-test: ## remove test and coverage artifacts
 	rm -fr .pytest_cache
 
 run:
-{%- if cookiecutter.fast_api == true -%}
 	uvicorn wealth.main:app
-{%- else -%}
-	python main.py
-{%- endif -%}
 
-{%- if cookiecutter.fast_api == true -%}
 run-dev:
 	uvicorn wealth.main:app --reload
-{%- endif -%}
