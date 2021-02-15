@@ -17,7 +17,7 @@ RUN pip install pipenv
 RUN pipenv install --system --deploy --ignore-pipfile
 
 # copy the content of the local src directory to the working directory
-COPY {{app_name}}/ config/ .
+COPY {{cookiecutter.app_name}}/ config/ .
 
 {%- if cookiecutter.fast_api == true -%}
 CMD [ "uvicorn", "wealth.main:app", "--host", "0.0.0.0", "--port", "8000"]
